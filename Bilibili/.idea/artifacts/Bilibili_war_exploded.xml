@@ -75,10 +75,6 @@
           <element id="library" level="project" name="Maven: com.google.zxing:javase:2.0" />
           <element id="library" level="project" name="Maven: com.google.zxing:core:2.0" />
           <element id="library" level="project" name="Maven: com.sun.jna:jna:3.0.9" />
-          <element id="library" level="project" name="org.mongodb:mongo-java-driver:3.2.2" />
-          <element id="library" level="project" name="org.mongodb:mongodb-driver-core:3.2.2" />
-          <element id="library" level="project" name="org.mongodb:mongodb-driver:3.2.2" />
-          <element id="library" level="project" name="org.springframework.data:spring-data-mongodb:1.9.1.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">
